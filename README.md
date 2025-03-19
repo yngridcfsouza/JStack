@@ -4,7 +4,7 @@ Projeto:
 Descrição:
 - Este projeto é uma API de gerenciamento de contatos desenvolvida em Node.js. A API permite listar todos os contatos e buscar um contato específico.
 
-Tecnologias Utilizadas (será atualizado):
+Tecnologias Utilizadas:
 - Node.js
 - Express
 - JavaScript
@@ -14,7 +14,7 @@ Tecnologias Utilizadas (será atualizado):
 O servidor rodará na porta 3000: 
 - Acesse: http://localhost:3000
 
-Endpoints Disponíveis (será atualizado):
+Endpoints Disponíveis:
 
 - Listar todos os usuários
   1 GET '/users'
